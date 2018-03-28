@@ -1,6 +1,21 @@
-caja1{
-background-color: aquamarine;
-font-family: 'Courier New', Courier, monospace;
-font-size: 1em;
-
+.circulo{
+background-color: rgb(23, 148, 127);
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-left: auto;
+margin-right: auto;
 }
+
+
+.triangulo{
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 0;
+    height: 0;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 300px solid rgb(216, 103, 58);
+    
+  }
