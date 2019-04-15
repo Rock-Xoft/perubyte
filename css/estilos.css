@@ -19,3 +19,10 @@ margin-right: auto;
     border-bottom: 300px solid rgb(216, 103, 58);
     
   }
+
+  h1{
+
+    text-align: center;
+    font-size: 3em;
+    color: green
+  }
